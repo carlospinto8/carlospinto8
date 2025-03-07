@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Howdy, I'm Carlos!
+👩🏻‍💻 Software Engineer II with IBM<br/>
+👩🏻‍🎓 Studied Computer Science at the Florida Atlantic University<br/>
+💭 Currently learning about Node, Express, and WebSockets!
 
 <!--
 **carlospinto8/carlospinto8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
