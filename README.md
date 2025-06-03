@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from South Florida</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning about Node, Express, and WebSockets<br><br>- 📫 How to reach me carlos.r.pinto31@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-pinto-a6640116b](https://www.linkedin.com/in/carlos-pinto-a6640116b)<br><br>- ⚡ Fun fact: I love soccer, going to metal concerts, weight lifting, and spending time with my girlfriend and pup. Did I mention I used to play a few instruments?
+- 🌱 I’m currently honing my Angular skills and refreshing my Java skills<br><br>- 📫 How to reach me carlos.r.pinto31@gmail.com<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-pinto-a6640116b](https://www.linkedin.com/in/carlos-pinto-a6640116b)<br><br>- ⚡ Fun fact: I love soccer, going to metal concerts, weight lifting, and spending time with my girlfriend and pup. Did I mention I used to play a few instruments?
 
 
 ## 🌐 Socials:
